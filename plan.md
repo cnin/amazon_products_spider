@@ -11,6 +11,7 @@ knowledge preparing
 ### task3
 learn from open source project
 major-scrapy-spider  -- ebay products
+git path: https://github.com/talhashraf/major-scrapy-spiders.git
 
 ### task4
 current small requirment
